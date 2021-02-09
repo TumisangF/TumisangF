@@ -1,7 +1,6 @@
 ### Hi there 👋
-<br>
 My name is Tumisang who loves creating user-facing apps. I am hoping to find a career in software engineering.
-
+<br>
 <!---**TumisangF/TumisangF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!
 <!--- 🔭 I -->
 <!--- 🔭 I  -->
