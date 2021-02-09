@@ -15,6 +15,7 @@ Recently, I've been building websites using HTML/CSS and Javascript. 🌱 I’m 
 My current goal is to become proficient enough with these languages to create a full-stack app with React and Rails.
 <br>
 Have a look at my work and feel free to reach out for collaboration or work.
+
 📫email: tumisangfokase@gmail.com
 <br>
-Thanks for stopping by.
+Thanks for stopping by😄.
