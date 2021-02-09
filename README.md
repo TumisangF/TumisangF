@@ -16,6 +16,7 @@ My current goal is to become proficient enough with these languages to create a 
 <br>
 
 Have a look at my work and feel free to reach out for collaboration or work.
+<br>
 📫email: tumisangfokase@gmail.com
 <br>
 
