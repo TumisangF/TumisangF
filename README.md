@@ -1,7 +1,8 @@
 ### Hi there 👋
+<br>
 My name is Tumisang who loves creating user-facing apps. I am hoping to find a career in software engineering.
-<!---
-**TumisangF/TumisangF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!
+
+<!---**TumisangF/TumisangF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!
 <!--- 🔭 I -->
 <!--- 🔭 I  -->
 <!--- 
@@ -13,7 +14,8 @@ My name is Tumisang who loves creating user-facing apps. I am hoping to find a c
 <!--- ⚡ Fun fact: ...-->
 Recently, I've been building websites using HTML/CSS and Javascript. 🌱 I’m currently learning Ruby to expand my skills. 
 My current goal is to become proficient enough with these languages to create a full-stack app with React and Rails.
-
-Have a look at my work and feel free to reach out at 📫: tumisangfokase@gmail.com for collaboration or work.
-
+<br>
+Have a look at my work and feel free to reach out for collaboration or work.
+📫email: tumisangfokase@gmail.com
+<br>
 Thanks for stopping by.
