@@ -14,8 +14,9 @@ My name is Tumisang who loves creating user-facing apps. I am hoping to find a c
 Recently, I've been building websites using HTML/CSS and Javascript. 🌱 I’m currently learning Ruby to expand my skills. 
 My current goal is to become proficient enough with these languages to create a full-stack app with React and Rails.
 <br>
-Have a look at my work and feel free to reach out for collaboration or work.
 
+Have a look at my work and feel free to reach out for collaboration or work.
 📫email: tumisangfokase@gmail.com
 <br>
+
 Thanks for stopping by😄.
