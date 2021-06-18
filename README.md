@@ -11,7 +11,7 @@ My name is Tumisang, a lifelong fan of cutting-edge technology.
 <!--- 📫 How to reach me: ...-->
 <!--- 😄 Pronouns: ...
 <!--- ⚡ Fun fact: ...-->
-Recently, I've been build websites using HTML/CSS and Javascript, built games using Ruby. 🌱 I’m currently learning Ruby on Rails to expand my skills. 
+Data Analyst seeking full time role in the field of Data. 
 <br>
 
 Have a look at my work and feel free to reach out for collaboration or work.
