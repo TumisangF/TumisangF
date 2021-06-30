@@ -13,9 +13,6 @@ My name is Tumisang, a lifelong fan of cutting-edge technology.
 <!--- ⚡ Fun fact: ...-->
 Data Analyst seeking full time role in the field of Data. 
 <br>
-
-Have a look at my work and feel free to reach out for collaboration or work.
-<br>
 📫Email: tumisangfokase@gmail.com
 <br>
 
