@@ -11,7 +11,7 @@ My name is Tumisang, a lifelong fan of cutting-edge technology.
 <!--- 📫 How to reach me: ...-->
 <!--- 😄 Pronouns: ...
 <!--- ⚡ Fun fact: ...-->
-Data Analyst seeking full time role in the field of Data. 
+Machine Learning Engineer seeking full time role in the field of Data. 
 <br>
 📫Email: tumisangfokase@gmail.com
 <br>
